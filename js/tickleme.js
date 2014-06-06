@@ -1,3 +1,4 @@
 function tickleMe() {
-    window.alert("hehe that tickles!")
+	alert("hehe that tickles!");
+	document.documentElement.innerHTML += "lol";
 }
